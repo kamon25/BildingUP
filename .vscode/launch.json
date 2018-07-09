@@ -31,7 +31,7 @@
             "name": "Python: Terminal (external)",
             "type": "python",
             "request": "launch",
-            "program": "${file}",
+            "program": "${workspaceFolder}/Main.py",
             "console": "externalTerminal"
         },
         {
